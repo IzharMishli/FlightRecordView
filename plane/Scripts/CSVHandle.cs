@@ -59,12 +59,12 @@ namespace plane.Scripts
 
 public class DataPiece
 {
-    public int ccTime, altitude, gpsTime, errors;
+    public int timeStamp, altitude, gpsTime, errors;
     public double lat, lon;
 
-    public DataPiece(string ccTime, string altitude, string gpsTime, string lat, string lon, string errors)
+    public DataPiece(string timeStamp, string altitude, string gpsTime, string lat, string lon, string errors)
     {
-        this.ccTime = Convert.ToInt32(ccTime);
+        this.timeStamp = Convert.ToInt32(timeStamp);
         this.altitude = Convert.ToInt32(altitude);
         this.gpsTime = Convert.ToInt32(gpsTime);
         this.errors = Convert.ToInt32(errors);

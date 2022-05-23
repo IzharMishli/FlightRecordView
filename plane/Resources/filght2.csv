@@ -1,4 +1,4 @@
-time(cc),altitude,GPS t,lat,lon,errors
+time stamp,altitude,GPS t,lat,lon,errors
 77865,211,500000,30.5,36,0
 77866,211,500001,30.55,36,322
 77867,211,500002,30.6,36,322

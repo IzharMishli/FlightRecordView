@@ -48,11 +48,9 @@ C:\Users\97254\Documents\GitHub\FlightRecordView\plane\bin\Debug\System.Data.Sql
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\bin\Debug\System.Data.SQLite.xml
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\bin\Debug\System.Security.Principal.Windows.xml
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.csproj.AssemblyReference.cache
-C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.csproj.SuggestedBindingRedirects.cache
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.Form1.resources
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.Properties.Resources.resources
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.csproj.GenerateResource.cache
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.csproj.CoreCompileInputs.cache
-C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.csproj.CopyComplete
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.exe
 C:\Users\97254\Documents\GitHub\FlightRecordView\plane\obj\Debug\plane.pdb

@@ -63,16 +63,6 @@ namespace plane.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap destination_map_israel {
-            get {
-                object obj = ResourceManager.GetObject("destination-map-israel", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap PinClipart_com_airline_pilot_clipart_1968075 {
             get {
                 object obj = ResourceManager.GetObject("PinClipart.com_airline-pilot-clipart_1968075", resourceCulture);
